@@ -124,7 +124,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::ACAD_NewDrawingSectionSelect.Properties.Resources.Form1;
+            this.BackgroundImage = global::ACAD_New_Drawing_Section_Select.Properties.Resources.Form1;
             this.ClientSize = new System.Drawing.Size(350, 230);
             this.ControlBox = false;
             this.Controls.Add(this.linkLabel1);

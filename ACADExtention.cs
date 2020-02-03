@@ -19,6 +19,8 @@ namespace ACAD_NewDrawingSectionSelect
         {
             Document doc = e.Document;
 
+            var f = doc.IsNamedDrawing; 
+
             Application app = new Application();
 
             CurrentSectionDepartment curSectDept = app.GetSectionDepartment(doc);
